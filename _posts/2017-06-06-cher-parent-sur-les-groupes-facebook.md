@@ -9,7 +9,7 @@ permalink: >
   https://edito-spiky.com/2017/06/cher-parent-sur-les-groupes-facebook/
 published: true
 ---
-Cher parents-sur-des-groupes-de-parents-Facebook,
+Cher parent-sur-des-groupes-de-parents-Facebook,
 
 Time out.  Faut qu'on s'parle.
 
