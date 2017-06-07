@@ -11,49 +11,47 @@ permalink: >
   https://edito-spiky.com/inscription-courriel/
 published: true
 page_style:
-  - minimal-nav-menu fullscreen-nav-menu
+  - 'a:1:{i:0;s:36:"minimal-nav-menu fullscreen-nav-menu";}'
 page_header_height:
-  - "360"
+  - 'a:1:{i:0;s:3:"360";}'
 page_header_bg_size:
-  - cover
+  - 'a:1:{i:0;s:5:"cover";}'
 page_header_bg_position:
-  - center center
+  - 'a:1:{i:0;s:13:"center center";}'
 page_header_bg_attachment:
-  - scroll
+  - 'a:1:{i:0;s:6:"scroll";}'
 page_header_overlay:
-  - '#000000'
+  - 'a:1:{i:0;s:7:"#000000";}'
 page_header_opacity:
-  - "0.4"
+  - 'a:1:{i:0;s:3:"0.4";}'
 page_header_color_title:
-  - '#f0f0f0'
+  - 'a:1:{i:0;s:7:"#f0f0f0";}'
 page_header_color_description:
-  - '#f0f0f0'
+  - 'a:1:{i:0;s:7:"#f0f0f0";}'
 page_header_button1_style:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 page_header_vertical_alignment:
-  - middle
+  - 'a:1:{i:0;s:6:"middle";}'
 page_header_alignment:
-  - left
+  - 'a:1:{i:0;s:4:"left";}'
 page_header_padding_top:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 page_header_padding-bottom:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 page_dark_menu:
-  - 'on'
+  - 'a:1:{i:0;s:2:"on";}'
 page_header_bg_image_id:
-  - "91"
+  - 'a:1:{i:0;s:2:"91";}'
 page_header_bg_image:
-  - >
-    https://edito-spiky.com/wp-content/uploads/2017/06/old-letters-2238537_1920.jpg
+  - 'a:1:{i:0;s:79:"https://edito-spiky.com/wp-content/uploads/2017/06/old-letters-2238537_1920.jpg";}'
 page_header_parallax_start:
-  - 0px 0px
+  - 'a:1:{i:0;s:7:"0px 0px";}'
 page_header_parallax_end:
-  - 0px 400px
+  - 'a:1:{i:0;s:9:"0px 400px";}'
 page_header_title:
-  - >
-    Inscrivez-vous aux nouveaux billets par
-    courriel
+  - 'a:1:{i:0;s:48:"Inscrivez-vous aux nouveaux billets par courriel";}'
 page_transparent_menu:
-  - 'on'
+  - 'a:1:{i:0;s:2:"on";}'
 ---
-[vc_row][vc_column width="2/3"][agni_heading heading="Inscrivez-vous aux nouveaux billets par courriel"][/vc_column][vc_column width="1/3"][vc_column_text][mc4wp_form id="7"][/vc_column_text][/vc_column][/vc_row]
+Vous recevrez de temps à autres les nouveaux billets, et possiblement d'autres nouvelles.  Il est facile de vous désinscrire si vous changez d'avis, via un lien inclus dans chacun des courriels.
+[mc4wp_form id="7"]
