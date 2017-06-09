@@ -57,7 +57,9 @@ C'est sûr qu'y a la vraie vie, pis les considérations tactiques pour gagner de
 <!--more-->
 
 Mais toi, <em>pourquoi</em> tu veux gagner des élections? Tu veux faire quoi? Tu peux pas dire en même temps « charte des valeurs » — ou « y a pas de racisme systémique » — pis « inclusion des minorités » et « bases d'un pays ».
+
 <blockquote>Tu peux pas dire « je suis de gauche » pis chier sur Québec Solidaire avec un élan.</blockquote>
+
 T'as été un leader dans le bref mais catastrophique gouvernement Marois, pendant lequel vous avez fouerré solide avec les CPE, flirté avec le pétrole de schiste et coupé dans les prestations d'aide sociale. On n'a pas besoin du PQ pour ça; les libéraux ou leur club-école bleu pâle sont déjà ben bons pour écraser les plus faibles au profit des plus forts.
 
 Faque. Ta tentative de stratégie de mettre Québec Solidaire dans un coin, avec pas-de-bonne-réponse pour eux, pour les utiliser pour gagner <em>sans eux</em>… <em>Nice shit</em>. Ils sont pas plus caves que n'importe qui. Ils ont ben vu que t'as toujours un agenda caché pis qu'y a pas moyen de te faire confiance. Que tu veux juste « marquer des points » pis fuck les principes. T'es rendu à traiter ceux que tu voulais comme partenaires de communistes soviétiques, sacrament!
@@ -66,7 +68,7 @@ T'sais quoi? Ça me fait chier de penser tout ça. J'étais un fan. Je suis sév
 
 Pis si ton parti est rendu le véhicule de whatever-the-fuck-tant-qu'y-a-l'indépendance-un-moment-donné, tout en spécifiant pas-l'indépendance-tu-suite et en laissant toute la place à toutes les contradictions du monde… oh wait… Un peu fourré, hein? Ouin. Check ben ma proposition.
 
-<strong>Farme la shop.</strong> C'est pas une joke, ni un commentaire chien. Le PQ, c'est aussi une machine politique rodée, avec du talent et des ressources. Au lieu de vous battre à l'interne avec toutes les options sur la table continuellement, que chacun aille à sa place. Les crackpots de l'identité et les drettistes (allo MBC!) peuvent aller à la CAQ. Les vrais progressistes seront bien accueillis à QS, et si tu n'as pas complètement viré dans le<em>dark side</em>, ça t'inclut. Ceux qui veulent juste l'indépendance par-dessus tout iront à Option Nationale. Si y reste du monde, ça peut juste être des arrivistes, qu'y aillent chez les Libéraux, pis bon débarras.
+<strong>Farme la shop.</strong> C'est pas une joke, ni un commentaire chien. Le PQ, c'est aussi une machine politique rodée, avec du talent et des ressources. Au lieu de vous battre à l'interne avec toutes les options sur la table continuellement, que chacun aille à sa place. Les crackpots de l'identité et les drettistes (allo MBC!) peuvent aller à la CAQ. Les vrais progressistes seront bien accueillis à QS, et si tu n'as pas complètement viré dans le <em>dark side</em>, ça t'inclut. Ceux qui veulent juste l'indépendance par-dessus tout iront à Option Nationale. Si y reste du monde, ça peut juste être des arrivistes, qu'y aillent chez les Libéraux, pis bon débarras.
 
 C'est peut-être pas agréable à entendre, mais partons d'un constat réaliste : la politique québécoise est dans un <em>deadlock</em>. Et les libéraux gagnent à (presque) chaque fois. Je pourrais leur dire, à eux, de s'auto-saborder, mais ils seraient un peu caves de m'écouter. La CAQ sont à leur _peak_ de sondages de tous les temps (y faudra m'expliquer, d'ailleurs). QS aussi, et ils ont un solide élan. Mais surtout : chaque partie du PQ est correctement représentée ailleurs et divise tous les votes. Le vote indépendantiste. Le vote progressiste. Le vote identitaire. Le vote corporatif.
 
