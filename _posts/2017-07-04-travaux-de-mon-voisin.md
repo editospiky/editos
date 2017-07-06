@@ -21,7 +21,7 @@ Comme tu peux le constater, ici c'est Montréal, des maisons en rangées de ving
 
 <!--more-->
 
-&gt; Tu peux pas juste t'installer là avec ton pick-up pis ton air de beu. La ruelle, c'est pas à toi. Ni à ton client. C'est collectif.
+> Tu peux pas juste t'installer là avec ton pick-up pis ton air de beu. La ruelle, c'est pas à toi. Ni à ton client. C'est collectif.
 
 D'ailleurs, y est où ton client? Mon genre de voisin, mettons? Ultimement, ça a beau être toi le trou de cul, l'autre _dude_ est responsable de te gérer. C'est comme pratique d'être un fantôme, hein? Y pense peut-être que c'est plus facile d'entretenir des bonnes relations avec ses voisins si y commence par juste pas être là? Tu lui feras le message que ça marche moyen.
 
@@ -38,3 +38,5 @@ Pis là, tu te transformes en chauve-souris, ou quelque chose de même.
 Vade retro, entrepreneur-de-mon-voisin.
 
 P.S. : Cher arrondissement, votre application assymétrique des règles me subjugue. Pour bloquer les citoyens de bonne foi au bureau des permis après une attente qui se compte en saisons, ça, vous êtes sur la coche. Mais pour gérer les enfoirés qui se foutent de tout... Je suis tanné d'être le tata qui respecte les règles au milieu d'un tout-le-monde-qui-s'en-crisse-pis-qu'ça-change-rien-anyway. Un peu d'introspection, au département des inspections, ça vous ferait du bien.
+
+P.P.S. : Hey guys!  Arrêtez de vous sentir visés si ça ne vous concerne pas...  Y a une différence entre utiliser la ruelle temporairement parce que vous avez pas le choix et juste être _full of it_ juste passque "j'ai l'doua"...  Big love. <3
