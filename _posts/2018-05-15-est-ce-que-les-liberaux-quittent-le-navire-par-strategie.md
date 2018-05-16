@@ -41,7 +41,7 @@ La CAQ est l'adversaire plus compliqué à gérer pour les libéraux.  C'est dif
 
 Alors la stratégie est peut-être là.  Se débarrasser de l'odeur de corruption en renouvelant une partie de la flotte de larbins serviles, et aller trouver une idée forte et faible à la fois de la CAQ et orienter toutes les discussions et le débat là-dessus.  Vite de même, où François Legault a-t-il des petites incohérences faciles à souligner?
 
-La place du Québec dans le Canada?  L'identité de la nation québécoise?  L'immigration et tous les paramètres d'encadrement loufoques proposés par la CAQ?
+La place du Québec dans le Canada?  L'identité de la nation québécoise?  L'immigration et tous les <a href="http://lactualite.com/politique/2018/05/14/immigration-francois-legault-met-cartes-sur-table/">paramètres d'encadrement loufoques proposés par la CAQ</a>?
 
 À la fin, la population ne votera pas <em>pour</em> personne, mais <em>contre</em> ceux qui ont l'air des pires.  Encore.  Un p'tit vote stratégique massif anti-quelque chose et hop! c'est reparti pour un tour.
 
